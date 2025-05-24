@@ -1,2 +1,3 @@
 # HatchDev
-A repo for all my hacthdev assignments and classworkd
+A repo for all my hacthdev assignments and classworks.
+
