@@ -3,7 +3,7 @@ class Book {
     constructor(title, author) {
         this.title = title;
         this.author = author;
-        this.isAvailable = true
+        this.isAvailable = true;
     }
 }
 class Member {
